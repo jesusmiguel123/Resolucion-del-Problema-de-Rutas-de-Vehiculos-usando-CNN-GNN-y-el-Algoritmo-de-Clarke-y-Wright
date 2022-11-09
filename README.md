@@ -30,5 +30,5 @@ The Vehicle Routing Problem is crucial in the Optimization field and related to 
 │········├── CNN.pt                                                                                                         
 │········├── FNN.pt                                                                                                         
 │········└── GNN.pt                                                                                                         
-├── Solucion al problema de Rutas de Vehiculos aplicando GNN y CNN.ipynb / main code                                       
-└── Solucion al problema de Rutas de Vehiculos aplicando GNN y CNN.pdf / Document
+├── Resolucion del Problema de Rutas de Vehiculos usando CNN, GNN y el Algoritmo de Clarke y Wright.ipynb / main code                                       
+└── Resolucion del Problema de Rutas de Vehiculos usando CNN, GNN y el Algoritmo de Clarke y Wright.pdf / Document
