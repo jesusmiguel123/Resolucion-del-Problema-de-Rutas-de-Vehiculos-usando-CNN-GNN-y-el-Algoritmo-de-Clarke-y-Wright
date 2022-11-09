@@ -1,4 +1,4 @@
-# Solución al problema de Rutas de vehículos aplicando GNN y CNN
+# Resolucion del Problema de Rutas de Vehiculos usando CNN  GNN y el Algoritmo de Clarke y Wright
 
 ## About
 The Vehicle Routing Problem is crucial in the Optimization field and related to various problems in real-life like getting the optimal route to serve a given number of requests. In this way, finding a solution with Neural Networks is important because the time It takes to find a solution would be lower than solving the same problem with other methods. The type of Neural Network that could give better solutions is the Graph Neural Network because it works with graphs that is the way in which this problem is represented.
